@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4dfa3fd5-71a8-4c06-95af-b7f4cd3a85e0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Image/골드 슬라임/기본/골드슬라임_stand_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/골드 슬라임/기본/골드슬라임_stand_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/골드 슬라임/기본/골드슬라임_stand_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/골드 슬라임/맞음/골드슬라임_hit_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/골드 슬라임/이동/골드슬라임_move_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/골드 슬라임/이동/골드슬라임_move_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/골드 슬라임/이동/골드슬라임_move_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/골드 슬라임/이동/골드슬라임_move_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/골드 슬라임/이동/골드슬라임_move_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/골드 슬라임/이동/골드슬라임_move_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/골드 슬라임/이동/골드슬라임_move_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/골드 슬라임/죽음/골드슬라임_die_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/골드 슬라임/죽음/골드슬라임_die_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/골드 슬라임/죽음/골드슬라임_die_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/골드 슬라임/죽음/골드슬라임_die_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/골드 슬라임/죽음/골드슬라임_die_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/빨간 달팽이/기본/빨간달팽이_stand_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/빨간 달팽이/맞음/빨간달팽이_hit_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/빨간 달팽이/이동/빨간달팽이_move_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/빨간 달팽이/이동/빨간달팽이_move_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/빨간 달팽이/이동/빨간달팽이_move_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/빨간 달팽이/이동/빨간달팽이_move_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/빨간 달팽이/죽음/빨간달팽이_die_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/빨간 달팽이/죽음/빨간달팽이_die_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/빨간 달팽이/죽음/빨간달팽이_die_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/스텀프/기본/스텀프_move_stand.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/스텀프/맞음/스텀프_hit_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/스텀프/이동/스텀프_move_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/스텀프/이동/스텀프_move_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/스텀프/이동/스텀프_move_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/스텀프/이동/스텀프_move_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/스텀프/죽음/스텀프_die_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/스텀프/죽음/스텀프_die_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/스텀프/죽음/스텀프_die_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/슬라임/기본/슬라임_stand_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/슬라임/기본/슬라임_stand_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/슬라임/기본/슬라임_stand_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/슬라임/맞음/슬라임_die_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/슬라임/맞음/슬라임_die_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/슬라임/맞음/슬라임_die_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/슬라임/맞음/슬라임_die_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/슬라임/맞음/슬라임_hit_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/슬라임/이동/슬라임_move_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/슬라임/이동/슬라임_move_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/슬라임/이동/슬라임_move_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/슬라임/이동/슬라임_move_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/슬라임/이동/슬라임_move_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/슬라임/이동/슬라임_move_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/슬라임/이동/슬라임_move_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/엑스텀프/기본/엑스텀프_stand_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/엑스텀프/맞음/엑스텀프_hit_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/엑스텀프/사망/엑스텀프_die_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/엑스텀프/사망/엑스텀프_die_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/엑스텀프/사망/엑스텀프_die_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/엑스텀프/사망/엑스텀프_die_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/엑스텀프/이동/엑스텀프_move_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/엑스텀프/이동/엑스텀프_move_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/엑스텀프/이동/엑스텀프_move_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/엑스텀프/이동/엑스텀프_move_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/주황버섯/기본/주황버섯_stand_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/주황버섯/기본/주황버섯_stand_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/주황버섯/맞음/주황버섯_hit_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/주황버섯/이동/주황버섯_move_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/주황버섯/이동/주황버섯_move_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/주황버섯/이동/주황버섯_move_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/주황버섯/죽음/주황버섯_die_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/주황버섯/죽음/주황버섯_die_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/주황버섯/죽음/주황버섯_die_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/초록버섯/기본/초록버섯_stand_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/초록버섯/기본/초록버섯_stand_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/초록버섯/기본/초록버섯_stand_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/초록버섯/맞음/초록버섯_hit_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/초록버섯/이동/초록버섯_move_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/초록버섯/이동/초록버섯_move_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/초록버섯/이동/초록버섯_move_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/초록버섯/이동/초록버섯_move_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/초록버섯/죽음/초록버섯_die_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/초록버섯/죽음/초록버섯_die_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/초록버섯/죽음/초록버섯_die_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/초록버섯/죽음/초록버섯_die_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/크림슨발록/공격/크림슨발록_attack_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/크림슨발록/공격/크림슨발록_attack_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/크림슨발록/공격/크림슨발록_attack_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/크림슨발록/공격/크림슨발록_attack_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/크림슨발록/공격/크림슨발록_attack_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/크림슨발록/공격/크림슨발록_attack_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/크림슨발록/공격/크림슨발록_attack_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/크림슨발록/공격/크림슨발록_attack_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/크림슨발록/공격1/크림슨발록_attack2_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/크림슨발록/공격1/크림슨발록_attack2_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/크림슨발록/기본/크림슨발록_stand_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/크림슨발록/기본/크림슨발록_stand_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/크림슨발록/기본/크림슨발록_stand_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/크림슨발록/기본/크림슨발록_stand_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/크림슨발록/맞음/크림슨발록_hit_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/크림슨발록/이동/크림슨발록_fly_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/크림슨발록/이동/크림슨발록_fly_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/크림슨발록/이동/크림슨발록_fly_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/크림슨발록/이동/크림슨발록_fly_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/크림슨발록/죽음/크림슨발록_die_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/크림슨발록/죽음/크림슨발록_die_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/크림슨발록/죽음/크림슨발록_die_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/크림슨발록/죽음/크림슨발록_die_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/크림슨발록/죽음/크림슨발록_die_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/크림슨발록/죽음/크림슨발록_die_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/크림슨발록/죽음/크림슨발록_die_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/크림슨발록/죽음/크림슨발록_die_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/크림슨발록/죽음/크림슨발록_die_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/크림슨발록/죽음/크림슨발록_die_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/파란 달팽이/기본/파란달팽이_stand_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/파란 달팽이/맞음/파란달팽이_hit_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/파란 달팽이/이동/파란달팽이_move_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/파란 달팽이/이동/파란달팽이_move_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/파란 달팽이/이동/파란달팽이_move_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/파란 달팽이/이동/파란달팽이_move_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/파란 달팽이/죽음/파란달팽이_die_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/파란 달팽이/죽음/파란달팽이_die_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image/파란 달팽이/죽음/파란달팽이_die_2.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/script/CheckVideoEnd.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jEFuVq3vD01FXpOdgHmGfQL2iv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4dfa3fd5-71a8-4c06-95af-b7f4cd3a85e0" name="Default Changelist" comment="" />
+      <created>1603361569989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603361569989</updated>
+      <workItem from="1603361574680" duration="3969000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="493" y="236" key="run.anything.popup" timestamp="1603369678172">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="493" y="236" key="run.anything.popup/0.0.1739.939@0.0.1739.939" timestamp="1603369678172" />
+  </component>
+</project>
