@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 using Random = UnityEngine.Random;
@@ -13,6 +14,8 @@ public struct CHARSTAT
 }
 public class CharactorStat : MonoBehaviour
 {
+   public TextMeshProUGUI NameBox;
+ 
    public string Char_name;
    public int Char_job;
    public CHARSTAT CharStat;
@@ -32,7 +35,7 @@ public class CharactorStat : MonoBehaviour
 
    public void Onclick()
    {
-      if(GameObject.Find("NameBox")!=null)  Char_name = GameObject.Find("NameBox").GetComponent<TextBox_Name>().stringToEdit;
+      if(NameBox.text!=null)  Char_name = NameBox.text;
       if(GameObject.Find("JobManager")!=null)  Char_job= GameObject.Find("JobManager").GetComponent<JobManager>().JobNum;
       
   
@@ -47,5 +50,10 @@ public class CharactorStat : MonoBehaviour
       CharStat.INT = Random.Range(1, 9);
       Text_int.text= CharStat.INT.ToString();
       
+   }
+
+   public void CharLog()
+   {
+      Debug.Log(Char_name+"+"+Char_job+"+"+CharStat.STR+"+"+CharStat.DEX+"+"+CharStat.INT);
    }
 }
