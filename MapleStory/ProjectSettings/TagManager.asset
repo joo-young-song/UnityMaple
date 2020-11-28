@@ -13,11 +13,11 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - UI_2
+  - UI_3
+  - Platform
+  - Player
+  - Monster
   - 
   - 
   - 
@@ -40,4 +40,25 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 2927081145
+    locked: 0
+  - name: UI_2
+    uniqueID: 3371736613
+    locked: 0
+  - name: UI_3
+    uniqueID: 411860839
+    locked: 0
+  - name: Platform
+    uniqueID: 1475017539
+    locked: 0
+  - name: Player
+    uniqueID: 3098967665
+    locked: 0
+  - name: Monster
+    uniqueID: 3566341857
+    locked: 0
+  - name: empty
+    uniqueID: 4122069735
     locked: 0
