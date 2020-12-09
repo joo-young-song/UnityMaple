@@ -18,7 +18,7 @@ TagManager:
   - Platform
   - Player
   - Monster
-  - 
+  - Background
   - 
   - 
   - 
@@ -41,24 +41,24 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: UI
+  - name: Background
     uniqueID: 2927081145
     locked: 0
-  - name: UI_2
+  - name: Monster
     uniqueID: 3371736613
     locked: 0
-  - name: UI_3
+  - name: Player
     uniqueID: 411860839
     locked: 0
   - name: Platform
     uniqueID: 1475017539
     locked: 0
-  - name: Player
+  - name: UI_3
     uniqueID: 3098967665
     locked: 0
-  - name: Monster
+  - name: UI_2
     uniqueID: 3566341857
     locked: 0
-  - name: empty
+  - name: UI
     uniqueID: 4122069735
     locked: 0
