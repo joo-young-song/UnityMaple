@@ -63,7 +63,6 @@ public class BossBehavior : MonoBehaviour
                 choice = false;
             }
             transform.position = new Vector3(transform.position.x - 0.01f, transform.position.y + yMove, transform.position.z);
-            print(transform.position);
         }
         else if(beHaviour == 2)
         {
