@@ -11,7 +11,6 @@ public class CameraMove : MonoBehaviour
 	public GameObject player;
 	private Vector2 minPos, maxPos;
 	public int mapNum = 0;
-	public bool bound;
 
 	void Start () 
 	{
