@@ -12,6 +12,7 @@
           </e>
         </e>
         <e p="script" t="Include">
+          <e p="BossBehavior.cs" t="Include" />
           <e p="CameraMove.cs" t="Include" />
           <e p="charactor" t="Include">
             <e p="Charactor_HP_MP_EXP.cs" t="Include" />
@@ -22,6 +23,7 @@
           <e p="CheckVideoEnd.cs" t="Include" />
           <e p="Crimson_balrog.cs" t="Include" />
           <e p="GameENd.cs" t="Include" />
+          <e p="MonsterBehavior.cs" t="Include" />
           <e p="SceneChange.cs" t="Include" />
         </e>
         <e p="TextMesh Pro" t="Include">

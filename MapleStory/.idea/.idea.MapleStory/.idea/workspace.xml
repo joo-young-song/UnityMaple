@@ -22,15 +22,13 @@
     <list default="true" id="4dfa3fd5-71a8-4c06-95af-b7f4cd3a85e0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MapleStory/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MapleStory/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MapleStory/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MapleStory/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab/UI.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/UI.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/1_MenuScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/1_MenuScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/2_TutorialScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/2_TutorialScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/image/character_image/마법사 동작/Mage.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/image/character_image/마법사 동작/Mage.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/script/charactor/Charactor_INFO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/script/charactor/Charactor_INFO.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/script/CameraMove.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/script/CameraMove.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

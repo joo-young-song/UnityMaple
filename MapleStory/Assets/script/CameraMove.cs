@@ -30,31 +30,31 @@ public class CameraMove : MonoBehaviour
 
 		if(mapNum == 0)
 		{
-			maxPos.x = 4f;
-			minPos.x = -4.06f;
+			maxPos.x = 5.76f;
+			minPos.x = -5.76f;
 			minPos.y = 0;
 			maxPos.y = 0;
 		}
 		else if(mapNum == 1)
 		{
-			maxPos.x = 30f;
-			minPos.x = 30f;
+			maxPos.x = 31.71f;
+			minPos.x = 28.25f;
 			
 			minPos.y = 0;
 			maxPos.y = 1.4f;
 		}
 		else if(mapNum == 2)
 		{
-			maxPos.x = 63.6f;
-			minPos.x = 56.4f;
+			maxPos.x = 65.4f;
+			minPos.x = 54.6f;
 			
 			minPos.y = 0;
 			maxPos.y = 1.3f;
 		}
 		else if(mapNum == 3)
 		{
-			minPos.x = 88.1f;
-			maxPos.x = 91.9f;
+			minPos.x = 86.4f;
+			maxPos.x = 93.6f;
 			minPos.y = 0;
 			maxPos.y = 5.0f;
 		}
