@@ -28,7 +28,7 @@ public class MonsterBehavior : MonoBehaviour
     {
         beHaviour = Random.Range(0,3);
         timeSpan = 0.0f;
-        checkTime = 3.0f;
+        checkTime = (Random.Range(0,300) / 100);
     }
 
    
@@ -39,6 +39,7 @@ public class MonsterBehavior : MonoBehaviour
         {
             beHaviour = Random.Range(0,3);
             timeSpan = 0.0f;
+            checkTime = (Random.Range(0,300) / 100);
         }
 
         // IDLE, MOVE L, MOVE R 순서

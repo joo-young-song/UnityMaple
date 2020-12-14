@@ -4,58 +4,35 @@ using UnityEngine;
 
 public class Portal : MonoBehaviour
 {
-    Rigidbody2D rigid;
-    bool portalUse1 = false;
-    bool portalUse2 = false;
-    bool portalUse3 = false;
+    bool portalUse = false;
+    public GameObject player;
     void Awake()
     {
-        rigid = GetComponent<Rigidbody2D>();
+        player = GameObject.FindGameObjectWithTag ("Player");
     }
 
     private void Update()
     {     
-        if(Input.GetKeyDown(KeyCode.UpArrow))
+        if(portalUse && Input.GetKeyDown(KeyCode.UpArrow))
         {
-            if(portalUse1)
-            {
-                transform.position = new Vector3(20.17f,  -3.3f, transform.position.z);
-            }
-            if(portalUse2)
-            {
-                transform.position = new Vector3(47.3f,  -2.6f, transform.position.z);
-            }
-            if(portalUse3)
-            {
-                transform.position = new Vector3(79.94f,  transform.position.y, transform.position.z);
-            }
+            if(gameObject.tag == "Portal1")
+                player.transform.position = new Vector3(20.17f,  -3.3f, transform.position.z);
+            if(gameObject.tag == "Portal2")
+                player.transform.position = new Vector3(47.3f,  -2.6f, transform.position.z);
+            if(gameObject.tag == "Portal3")
+                player.transform.position = new Vector3(79.94f,  transform.position.y, transform.position.z);
         }
     }
     void OnTriggerEnter2D(Collider2D other)
     {
-        if(other.gameObject.tag == "Portal1")
+        if(other.gameObject.tag == "Player")
         {
-            portalUse1 = true;
-        }
-
-        if(other.gameObject.tag == "Portal2")
-        {
-            portalUse2 = true;
-        }
-
-        if(other.gameObject.tag == "Portal3")
-        {
-            portalUse3 = true;
+            portalUse = true;
         }
     }
 
     void OnTriggerExit2D(Collider2D other)
     {
-        if(other.gameObject.tag == "Portal1")
-            portalUse1 = false;            
-        if(other.gameObject.tag == "Portal2")
-            portalUse2 = false;
-        if(other.gameObject.tag == "Portal3")
-            portalUse3 = false;
+        portalUse = false;
     }
 }
