@@ -56,4 +56,5 @@ public class CharactorStat : MonoBehaviour
    {
       Debug.Log(Char_name+"+"+Char_job+"+"+CharStat.STR+"+"+CharStat.DEX+"+"+CharStat.INT);
    }
+   
 }
