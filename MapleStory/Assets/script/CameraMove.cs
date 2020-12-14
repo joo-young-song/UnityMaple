@@ -21,7 +21,7 @@ public class CameraMove : MonoBehaviour
 	void FixedUpdate () {
 		if(player.transform.position.x < 15f && player.transform.position.x > -15f)
 			mapNum = 0;
-		if(player.transform.position.x < 41f && player.transform.position.x > 19.7f)
+		if(player.transform.position.x < 41f && player.transform.position.x > 18.8f)
 			mapNum = 1;
 		if(player.transform.position.x < 75f && player.transform.position.x > 45f)
 			mapNum = 2;
