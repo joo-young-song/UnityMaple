@@ -19,43 +19,50 @@ public class CameraMove : MonoBehaviour
 
 
 	void FixedUpdate () {
-
-		float posX = Mathf.SmoothDamp (transform.position.x, player.transform.position.x, ref velocity.x, smoothTimeX);
-		float posY = Mathf.SmoothDamp (transform.position.y, player.transform.position.y, ref velocity.y, smoothTimeY);
-
-		transform.position = new Vector3 (posX, posY, transform.position.z);
+		if(player.transform.position.x < 15f && player.transform.position.x > -15f)
+			mapNum = 0;
+		if(player.transform.position.x < 41f && player.transform.position.x > 19.7f)
+			mapNum = 1;
+		if(player.transform.position.x < 75f && player.transform.position.x > 45f)
+			mapNum = 2;
+		if(player.transform.position.x < 103f && player.transform.position.x > 77f)
+			mapNum = 3;
 
 		if(mapNum == 0)
 		{
-			maxPos.x = 6.75f;
-			minPos.x = -6.7f;
+			maxPos.x = 4f;
+			minPos.x = -4.06f;
 			minPos.y = 0;
 			maxPos.y = 0;
 		}
 		else if(mapNum == 1)
 		{
-			maxPos.x = 32.22f;
-			minPos.x = 27.73f;
+			maxPos.x = 30f;
+			minPos.x = 30f;
 			
 			minPos.y = 0;
 			maxPos.y = 1.4f;
 		}
 		else if(mapNum == 2)
 		{
-			maxPos.x = 66.5f;
-			minPos.x = 53.5f;
+			maxPos.x = 63.6f;
+			minPos.x = 56.4f;
 			
 			minPos.y = 0;
 			maxPos.y = 1.3f;
 		}
 		else if(mapNum == 3)
 		{
-			minPos.x = 85.3f;
-			maxPos.x = 94.5f;
+			minPos.x = 88.1f;
+			maxPos.x = 91.9f;
 			minPos.y = 0;
 			maxPos.y = 5.0f;
 		}
 
+		float posX = Mathf.SmoothDamp (transform.position.x, player.transform.position.x, ref velocity.x, smoothTimeX);
+		float posY = Mathf.SmoothDamp (transform.position.y, player.transform.position.y, ref velocity.y, smoothTimeY);
+
+		transform.position = new Vector3 (posX, posY, transform.position.z);
 
 		transform.position = new Vector3 (Mathf.Clamp (transform.position.x, minPos.x, maxPos.x),
 		Mathf.Clamp (transform.position.y, minPos.y, maxPos.y),
